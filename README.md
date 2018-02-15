@@ -44,3 +44,4 @@ The Assignment
  2. Do your best to provide a coded answer as well as an explanation for your answer for the problem presented in each folder
  3. Create a your own new, public, git-hub repository, and commit your solutions/explanations
  4. Provide a link to your repository to the recruiter
+# intermountain-assignment
