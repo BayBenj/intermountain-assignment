@@ -1,11 +1,3 @@
--- declare
---
--- v_id  number := 1 ;
--- v_name varchar2(20) ;
--- v_region varchar2(20);
--- v_pop number ;
-
--- begin
 
 INSERT INTO customer
 (id,name,email)
@@ -62,21 +54,3 @@ INSERT INTO customer_purchases
 INSERT INTO customer_purchases
 (purchaseID,customerID)
  values(4,3);
-
-
--- commit;
--- end;
-
-
-
-
-
-
-
-
-
-
-
-
-
---

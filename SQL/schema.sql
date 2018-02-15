@@ -26,22 +26,3 @@ CREATE TABLE purchase (
 	item_id INTEGER,
 	the_time TIMESTAMP
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---

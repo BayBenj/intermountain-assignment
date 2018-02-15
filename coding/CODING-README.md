@@ -1,3 +1,5 @@
+
+# Coding Explanation
 ## FizzBuzz
 This is a simple FizzBuzz implementation. Simply run `python FizzBuzz.py` to see the result.
 
